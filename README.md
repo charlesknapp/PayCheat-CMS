@@ -34,7 +34,7 @@ Our CMS includes a wide array of data models, each designed to manage specific f
 - **supporterRoleCache**: Caches users with a supporter role for better role management.
 
 ## API Routes
-PayCheat CMS provides a variety of pre-built routes that make managing your platform a breeze:
+SULK CMS provides a variety of pre-built routes that make managing your platform a breeze:
 
 - **auth**: Handles authentication, including login, registration, and password resets.
 - **community**: Manage community posts, replies, and user interaction.
@@ -57,14 +57,14 @@ PayCheat CMS provides a variety of pre-built routes that make managing your plat
 ## Why Choose SULK CMS?
 
 1. **Seamless Integration**: Pre-built models and routes make it easy to manage users, licenses, and payments.
-2. **Scalability**: Built on top of MongoDB, PayCheat CMS can handle thousands of users and product transactions with ease.
+2. **Scalability**: Built on top of MongoDB, SULK CMS can handle thousands of users and product transactions with ease.
 3. **Developer-Friendly**: With detailed documentation and a modular architecture, developers can easily extend or modify the CMS.
 4. **Community Engagement**: Built-in support for user posts, reports, and replies keeps your community active and engaged.
 5. **Secure**: Integrated with Stripe and KeyAuth for secure transactions and license management.
 6. **Automation**: Cron routes and background tasks ensure that your platform runs efficiently without manual intervention.
 
 ## SULK CMS Image Examples
-Below are some example screenshots showcasing the sections of PayCheat CMS.
+Below are some example screenshots showcasing the sections of SULK CMS.
 
 ### Product and Key Management
 <div align="left">
