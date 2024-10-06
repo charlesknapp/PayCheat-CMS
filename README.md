@@ -67,31 +67,50 @@ PayCheat CMS provides a variety of pre-built routes that make managing your plat
 ## PayCheat CMS Image Examples
 Below are some example screenshots showcasing the sections of PayCheat CMS.
 
+### Product and Key Management
 <div align="left">
     <img src="./demos/shop_page.png" alt="Shop Page" width="300"/>
     <img src="./demos/my_keys_page.jpg" alt="My Keys Page" width="300"/>
     <img src="./demos/downloads_page.png" alt="Downloads Page" width="300"/>
-    <br/>
+</div>
+
+### Community Features
+<div align="left">
     <img src="./demos/community_page_index.jpg" alt="Community Page Index" width="300"/>
     <img src="./demos/community_page_newPost.png" alt="Community New Post" width="300"/>
     <img src="./demos/community_page_postDetail.png" alt="Community Post Detail" width="300"/>
-    <br/>
+</div>
+
+### Support and Developer Tools
+<div align="left">
     <img src="./demos/support_page.png" alt="Support Page" width="300"/>
     <img src="./demos/developers_page.png" alt="Developers Page" width="300"/>
     <img src="./demos/developers_page_playground.png" alt="Developer Playground" width="300"/>
-    <br/>
+</div>
+
+### Report and User Management
+<div align="left">
     <img src="./demos/reportTickets_page.png" alt="Report Tickets" width="300"/>
     <img src="./demos/reportTickets_page_View.png" alt="Report Tickets View" width="300"/>
     <img src="./demos/manageUsers_page.png" alt="Manage Users" width="300"/>
-    <br/>
+</div>
+
+### Loader and Product Management
+<div align="left">
     <img src="./demos/ManageLoaders_page.png" alt="Manage Loaders" width="300"/>
     <img src="./demos/EditLoaders_page.png" alt="Edit Loaders" width="300"/>
     <img src="./demos/ManageProducts_page.png" alt="Manage Products" width="300"/>
-    <br/>
+</div>
+
+### License and DLL Protection
+<div align="left">
     <img src="./demos/EditProducts_page.png" alt="Edit Products" width="300"/>
     <img src="./demos/ManageLicenses_page.png" alt="Manage Licenses" width="300"/>
     <img src="./demos/DLLProtection_page.png" alt="DLL Protection" width="300"/>
-    <br/>
+</div>
+
+### Dashboard and Profile
+<div align="left">
     <img src="./demos/dashboard_page_index.png" alt="Dashboard Page Index" width="300"/>
     <img src="./demos/dashboard_index_page2.png" alt="Dashboard Page Index 2" width="300"/>
     <img src="./demos/profile_page.jpg" alt="Profile Page" width="300"/>
