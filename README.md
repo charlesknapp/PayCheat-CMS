@@ -1,6 +1,6 @@
 # SULK CMS | Full-stack Single-Use License Key Management System
 
-Full-stack CMS built specifically for Single-Use License Key sites. This project is perfect for those looking to manage a cheat or software distribution service with ease. The system is fully integrated with **MongoDB**, **KeyAuth**, **Stripe API**, and more to ensure seamless user management, license key generation, and product distribution. With a variety of models and routes, this CMS is the all-in-one solution for running a Single-Use License Key business!
+Full-stack CMS built specifically for Single-Use License Key sites. This project is perfect for those looking to manage a software distribution service with ease. The system is fully integrated with **MongoDB**, **KeyAuth**, **Stripe API**, and more to ensure seamless user management, license key generation, and product distribution. With a variety of models and routes, this CMS is the all-in-one solution for running a Single-Use License Key business!
 
 💡 Want to see it in action? Check out various public sites using SULK CMS:
 - [GetOS.me](https://getos.me)
