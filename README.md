@@ -116,9 +116,9 @@ Below are some example screenshots showcasing the sections of PayCheat CMS.
 </div>
 
 ## How to Purchase
-If you're interested in purchasing the full source code of **PayCheat CMS**, you're in the right place! This CMS is available for sale for individuals or businesses looking to quickly deploy a Pay-to-Cheat platform with a fully-featured backend.
+Interested in purchasing the full source code of **PayCheat CMS**? This CMS is available for sale. Source code includes frontend and backend API frameworks.
 
-To get the source code and license, please contact:
+To get the source code, please contact:
 
 - **LinkedIn**: https://www.linkedin.com/in/knappcharles/
 - **GitHub**: [Charles Knapp](https://github.com/charlesknapp)
