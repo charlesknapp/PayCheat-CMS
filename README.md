@@ -1,8 +1,8 @@
-# PayCheat CMS | Full-stack P2C Site
+# SULK CMS | Full-stack Single-Use License Key Management System
 
-Full-stack CMS built specifically for Pay-to-Cheat (P2C) sites. This project is perfect for those looking to manage a cheat or software distribution service with ease. The system is fully integrated with **MongoDB**, **KeyAuth**, **Stripe API**, and more to ensure seamless user management, license key generation, and product distribution. With a variety of models and routes, this CMS is the all-in-one solution for running a P2C business!
+Full-stack CMS built specifically for Single-Use License Key sites. This project is perfect for those looking to manage a cheat or software distribution service with ease. The system is fully integrated with **MongoDB**, **KeyAuth**, **Stripe API**, and more to ensure seamless user management, license key generation, and product distribution. With a variety of models and routes, this CMS is the all-in-one solution for running a Single-Use License Key business!
 
-💡 **Live Demo**: Want to see it in action? Check out various sites using PayCheat CMS:
+💡 **Live Demo**: Want to see it in action? Check out various sites using SULK CMS:
 - [GetOS.me](https://getos.me)
 
 ## Features
@@ -54,7 +54,7 @@ PayCheat CMS provides a variety of pre-built routes that make managing your plat
 - **user**: Manages user data, authentication, and role-based permissions.
 - **webhooks**: Provides webhook functionality for real-time integrations, including Discord and payment notifications.
 
-## Why Choose PayCheat CMS?
+## Why Choose SULK CMS?
 
 1. **Seamless Integration**: Pre-built models and routes make it easy to manage users, licenses, and payments.
 2. **Scalability**: Built on top of MongoDB, PayCheat CMS can handle thousands of users and product transactions with ease.
@@ -63,7 +63,7 @@ PayCheat CMS provides a variety of pre-built routes that make managing your plat
 5. **Secure**: Integrated with Stripe and KeyAuth for secure transactions and license management.
 6. **Automation**: Cron routes and background tasks ensure that your platform runs efficiently without manual intervention.
 
-## PayCheat CMS Image Examples
+## SULK CMS Image Examples
 Below are some example screenshots showcasing the sections of PayCheat CMS.
 
 ### Product and Key Management
@@ -116,11 +116,11 @@ Below are some example screenshots showcasing the sections of PayCheat CMS.
 </div>
 
 ## How to Purchase
-Interested in purchasing the full source code of **PayCheat CMS**? This CMS is available for sale. Source code includes frontend and backend API frameworks.
+Interested in purchasing the full source code of **SULK CMS**? This CMS is available for sale. Source code includes frontend and backend API frameworks.
 
 To get the source code, please contact:
 
 - **LinkedIn**: https://www.linkedin.com/in/knappcharles/
 - **GitHub**: [Charles Knapp](https://github.com/charlesknapp)
 
-Once payment is confirmed via **Stripe**, you'll receive access to the full repository and support to help you set it up.
+Once payment is confirmed via **Stripe**, you'll receive access to the full repository. Only basic support will be provided.
