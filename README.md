@@ -1,6 +1,6 @@
 # PayCheat CMS | Full-stack P2C Site
 
-Welcome to **PayCheat CMS**, a full-stack CMS built specifically for Pay-to-Cheat (P2C) sites. This project is perfect for those looking to manage a cheat or software distribution service with ease. The system is fully integrated with **MongoDB**, **KeyAuth**, **Stripe API**, and more to ensure seamless user management, license key generation, and product distribution. With a variety of models and routes, this CMS is the all-in-one solution for running a P2C business!
+Full-stack CMS built specifically for Pay-to-Cheat (P2C) sites. This project is perfect for those looking to manage a cheat or software distribution service with ease. The system is fully integrated with **MongoDB**, **KeyAuth**, **Stripe API**, and more to ensure seamless user management, license key generation, and product distribution. With a variety of models and routes, this CMS is the all-in-one solution for running a P2C business!
 
 Created and maintained with ❤️ by [Charles Knapp](https://github.com/charlesknapp).
 
